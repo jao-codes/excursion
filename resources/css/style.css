@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 45px;
+}
+
+img {
+    padding: 20px 0;
+    display: block;
+    margin: auto;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    font-size: 20px;
+}
